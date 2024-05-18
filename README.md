@@ -1,6 +1,4 @@
 # Brownian Motion Simulation
 Simulating Brownian Motion using the Numpy library
 
-<video width="640" height="320" controls>
-  <source src="simulation_video.mp4" type="video/mp4">
-</video>
+![simulation](https://github.com/timliang4/brownian_motion/assets/119815524/ddcdb5ab-0f70-49f8-b052-4c6e90aa35bb)
